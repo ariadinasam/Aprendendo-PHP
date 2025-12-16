@@ -1,0 +1,11 @@
+.central{
+    text-align: center;
+}
+
+.borda{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: fit-content;  
+    margin: 0 auto;
+    padding: 10px;
+}
